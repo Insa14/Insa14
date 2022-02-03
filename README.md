@@ -2,6 +2,7 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=01E1EC&height=300&section=header&text=Hi%20there!%20👋&fontSize=90&fontColor=ffffff"/>
 </div>
+When learning a new language, I tend to understand the strengths and structure of the language and enter it. I will become a developer who continues to evolve to provide better and more comfortable services to customers, whether client-side or server-side.
 <div align=center><h1>💪Skils</h1></div>
 
 <div align=center> 
